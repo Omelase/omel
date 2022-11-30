@@ -28,11 +28,11 @@ ul {
 }
 
 li {
-    color: gray;
+    color: white;
 }
 
 li:hover {
-    background-color: gray;
+    background-color: #b8462b;
 }
 
 b {
@@ -42,7 +42,7 @@ b {
 .nav {
     position: sticky;
     margin-top: 600px;
-    background: #eee;
+    background: #291c3a;
     height: 100%;
 }
 
