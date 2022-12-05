@@ -10,7 +10,7 @@ body {
     display: grid;
     grid-template-columns: 320px 1fr;
     font-family: 'Nanum Gothic', sans-serif;
-    transform : rotate(0.04deg);
+    transform: rotate(0.04deg);
     max-width: 100%;
 }
 
@@ -18,7 +18,7 @@ header {
     position: fixed;
 }
 
-header > img {
+header>img {
     height: 600px;
 }
 
@@ -84,7 +84,10 @@ a:visited {
 .geul {
     text-decoration: none;
 }
-.geul:hover, .geul:active, .geul:focus {
+
+.geul:hover,
+.geul:active,
+.geul:focus {
     text-decoration: underline;
 }
 
@@ -129,5 +132,3 @@ a:visited {
     font-weight: bold;
     font-size: 100px;
 }
-
-
